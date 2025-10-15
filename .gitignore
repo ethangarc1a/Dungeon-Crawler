@@ -1,0 +1,24 @@
+# Executables
+dungeon_crawler
+dungeon_crawler.exe
+*.out
+*.app
+
+# Build directories
+build/
+cmake-build-*/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Compiled Object files
+*.o
+*.obj
+
+# OS
+.DS_Store
+Thumbs.db
